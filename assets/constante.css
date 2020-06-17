@@ -1,0 +1,133 @@
+
+
+.inv{
+
+	visibility:hidden;
+}
+
+
+
+
+
+
+ .expand_0_0:hover{ 
+	transform:scale(1.02);
+	transition: 0.5s;
+ }
+
+
+
+ .expand_0:hover{ 
+	transform:scale(1.03);
+	transition: 0.3s;
+ }
+
+
+ .expand_1:hover{ 
+	transform:scale(1.08);
+	transition: 0.3s;
+ }
+
+
+
+ 
+ .expand_0_foc:focus{
+	transform:scale(1.03);
+	transition: 0.3s;
+ }
+
+
+.bg_blanc0_hov:hover{ background: -webkit-linear-gradient(left,#ececec,#ececec); }
+
+
+
+
+
+
+
+
+/*Fondo Vacio*/
+.bg_void{background: transparent;}
+
+
+
+/*Fondos Blancos tres Tonalidades*/
+.bg_blanc0{ background: -webkit-linear-gradient(left,#ececec,#ececec); }
+.bg_blanc1{ background: -webkit-linear-gradient(left,#e2e2e2,#e2e2e2);  }
+.bg_blanc2{ background: -webkit-linear-gradient(left,#e6eaf6, #e6eaf6); }
+
+
+.bg_az0{ background: #2961ff; }
+
+/*Gradiente Tonos de Gris*/
+.bg_grad_sec_0{background: -webkit-linear-gradient(left,#777777,#999999); }
+
+.bg_grad_sec_1{background: -webkit-linear-gradient(left,#666666,#3a484e);}
+.bg_grad_sec_2{background: -webkit-linear-gradient(top,#bec3c3,#7c7c7c);}
+.bg_grad_sec_3{background: -webkit-linear-gradient(top,#bec3c3,#666666,#3a484e);}
+
+
+
+
+/*Gradiente Tonos de Azul*/
+.bg_grad_prim_0{background: -webkit-linear-gradient(bottom,#1d18da,#1363c5,#00a0e7);}
+.bg_grad_prim_1{background: -webkit-linear-gradient(top,#3d88ff,#1363c5);}
+
+
+
+
+
+
+
+
+.bg_transp1{background: rgba(0,0,0,0.1);  }
+.bg_transp2{background: rgba(0,0,0,0.2);  }
+.bg_transp3{background: rgba(0,0,0,0.3);  }
+
+.bg_sec{ background: #999999; }
+
+
+
+
+.brAll_0{ border:1px solid #e2e2e2; }
+
+
+/*Borders Oscuros Transparente Diferentes Tonalidades*/
+.brAll_1{ border:1px solid rgba(0,0,0,0.1); }
+
+.brAll_1_1{border:1px solid rgba(0,0,0,0.2);}
+
+
+
+
+
+/*Borders Top Oscuros Transparentes*/
+.brAll_1_1_T{ border-top:1px solid rgba(0,0,0,0.2); }
+
+
+/*Borders Bottom Oscuros Transparentes*/
+.brAll_1_1_B{ border-bottom:1px solid rgba(0,0,0,0.2); }
+
+
+/*Borders Left Oscuros Transparentes*/
+.brAll_1_1_L{ border-left:1px solid rgba(0,0,0,0.2); }
+
+
+/*Borders Right Oscuros Transparentes*/
+.brAll_1_1_R{ border-right:1px solid rgba(0,0,0,0.2); }
+
+
+
+
+
+
+.tx_top{
+	vertical-align:top
+}
+
+
+
+/*Sombreados Grices*/
+.sha_sec_1{
+	-webkit-box-shadow:#999999  0.8px 3px 7px 1px;
+}

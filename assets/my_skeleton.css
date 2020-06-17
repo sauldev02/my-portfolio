@@ -1,0 +1,951 @@
+
+
+
+.my_skeleton_transp1_s1{
+  animation-duration: 1s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: preloadAnimation;
+  animation-timing-function: linear;
+
+  background: rgba(0,0,0,0.2);
+  background: linear-gradient(to right, rgba(0,0,0,0.5) 8%, rgba(0,0,0,0.2) 18%, rgba(0,0,0,0.5) 33%);
+
+
+  display: flex;
+  min-height: 500px;
+  width: 110rem;
+}
+.my_skeleton_transp1_s2{
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: preloadAnimation;
+  animation-timing-function: linear;
+
+  background: rgba(0,0,0,0.2);
+  background: linear-gradient(to right, rgba(0,0,0,0.5) 8%, rgba(0,0,0,0.2) 18%, rgba(0,0,0,0.5) 33%);
+
+  display: flex;
+  min-height: 500px;
+  width: 110rem;
+}
+.my_skeleton_transp1_s3{
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: preloadAnimation;
+  animation-timing-function: linear;
+
+  background: rgba(0,0,0,0.2);
+  background: linear-gradient(to right, rgba(0,0,0,0.5) 8%, rgba(0,0,0,0.2) 18%, rgba(0,0,0,0.5) 33%);
+
+    
+  display: flex;
+  min-height: 500px;
+  width: 110rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.my_skeleton_gray1_s1{
+  animation-duration: 1s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: preloadAnimation;
+  animation-timing-function: linear;
+
+  background: #e6eaf6;
+  background: linear-gradient(to right, #e6eaf6 8%, #f6f7f8 25%, #e6eaf6 33%);
+  
+  display: flex;
+  min-height: 500px;
+  width: 110rem;
+}
+.my_skeleton_gray1_s2{
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: preloadAnimation;
+  animation-timing-function: linear;
+
+  background: #e6eaf6;
+  background: linear-gradient(to right, #e6eaf6 8%, #f6f7f8 25%, #e6eaf6 33%);
+  
+  display: flex;
+  min-height: 500px;
+  width: 110rem;
+}
+.my_skeleton_gray1_s3{
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: preloadAnimation;
+  animation-timing-function: linear;
+
+  background: #e6eaf6;
+  background: linear-gradient(to right, #e6eaf6 8%, #f6f7f8 25%, #e6eaf6 33%);
+  
+  display: flex;
+  min-height: 500px;
+  width: 110rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.my_skeleton_gray2_s1{
+  animation-duration: 1s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: preloadAnimation;
+  animation-timing-function: linear;
+
+  background: #e6eaf6;
+  background: linear-gradient(to right, #e6eaf6 8%, #dddddd 25%, #e6eaf6 33%);  
+  
+  display: flex;
+  min-height: 500px;
+  width: 110rem;
+}
+.my_skeleton_gray2_s2{
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: preloadAnimation;
+  animation-timing-function: linear;
+
+  background: #e6eaf6;
+  background: linear-gradient(to right, #e6eaf6 8%, #dddddd 25%, #e6eaf6 33%);  
+  
+  display: flex;
+  min-height: 500px;
+  width: 110rem;
+}
+.my_skeleton_gray2_s3{
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: preloadAnimation;
+  animation-timing-function: linear;
+
+  background: #e6eaf6;
+  background: linear-gradient(to right, #e6eaf6 8%, #dddddd 25%, #e6eaf6 33%);  
+
+  
+  display: flex;
+  min-height: 500px;
+  width: 110rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.my_skeleton_gray3_s1{
+  animation-duration: 1s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: preloadAnimation;
+  animation-timing-function: linear;
+
+
+  background: #e6eaf6;
+  background: linear-gradient(to right, #dddddd 8%, #e6eaf6 25%, #dddddd 33%);
+
+
+  display: flex;
+  min-height: 500px;
+  width: 110rem;
+}
+.my_skeleton_gray3_s2{
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: preloadAnimation;
+  animation-timing-function: linear;
+
+  background: #e6eaf6;
+  background: linear-gradient(to right, #dddddd 8%, #e6eaf6 25%, #dddddd 33%);
+
+  
+  display: flex;
+  min-height: 500px;
+  width: 110rem;
+}
+.my_skeleton_gray3_s3{
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: preloadAnimation;
+  animation-timing-function: linear;
+
+  background: #e6eaf6;
+  background: linear-gradient(to right, #dddddd 8%, #e6eaf6 25%, #dddddd 33%);
+
+  
+  display: flex;
+  min-height: 500px;
+  width: 110rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.my_skeleton_gray4_s1{
+  animation-duration: 1s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: preloadAnimation;
+  animation-timing-function: linear;
+
+
+  background: #f6f7f8;
+  background: linear-gradient(to right, #eeeeee 8%, #f6f7f8 18%, #eeeeee 33%);
+
+  display: flex;
+  min-height: 500px;
+  width: 110rem;
+}
+.my_skeleton_gray4_s2{
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: preloadAnimation;
+  animation-timing-function: linear;
+
+  background: #f6f7f8;
+  background: linear-gradient(to right, #eeeeee 8%, #f6f7f8 18%, #eeeeee 33%);
+
+  display: flex;
+  min-height: 500px;
+  width: 110rem;
+}
+.my_skeleton_gray4_s3{
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: preloadAnimation;
+  animation-timing-function: linear;
+
+  background: #f6f7f8;
+  background: linear-gradient(to right, #eeeeee 8%, #f6f7f8 18%, #eeeeee 33%);
+  
+  display: flex;
+  min-height: 500px;
+  width: 110rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.my_skeleton_gray5_s1{
+  animation-duration: 1s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: preloadAnimation;
+  animation-timing-function: linear;
+
+
+  background: #f6f7f8;
+  background: linear-gradient(to right, #eeeeee 8%, #dddddd 18%, #eeeeee 33%);
+  
+  display: flex;
+  min-height: 500px;
+  width: 110rem;
+}
+.my_skeleton_gray5_s2{
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: preloadAnimation;
+  animation-timing-function: linear;
+
+  background: #f6f7f8;
+  background: linear-gradient(to right, #eeeeee 8%, #dddddd 18%, #eeeeee 33%);
+
+  display: flex;
+  min-height: 500px;
+  width: 110rem;
+}
+.my_skeleton_gray5_s3{
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: preloadAnimation;
+  animation-timing-function: linear;
+
+  background: #f6f7f8;
+  background: linear-gradient(to right, #eeeeee 8%, #dddddd 18%, #eeeeee 33%);
+  
+  display: flex;
+  min-height: 500px;
+  width: 110rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.my_skeleton_gray6_s1{
+  animation-duration: 1s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: preloadAnimation;
+  animation-timing-function: linear;
+
+
+  background: #dddddd;
+  background: linear-gradient(to right, #e6eaf6 8%, #999999 25%, #e6eaf6 33%);
+  
+  display: flex;
+  min-height: 500px;
+  width: 110rem;
+}
+.my_skeleton_gray6_s2{
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: preloadAnimation;
+  animation-timing-function: linear;
+
+  background: #dddddd;
+  background: linear-gradient(to right, #e6eaf6 8%, #999999 25%, #e6eaf6 33%);
+
+  display: flex;
+  min-height: 500px;
+  width: 110rem;
+}
+.my_skeleton_gray6_s3{
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: preloadAnimation;
+  animation-timing-function: linear;
+
+  background: #dddddd;
+  background: linear-gradient(to right, #e6eaf6 8%, #999999 25%, #e6eaf6 33%);
+  
+  display: flex;
+  min-height: 500px;
+  width: 110rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.my_skeleton_gray7_s1{
+  animation-duration: 1s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: preloadAnimation;
+  animation-timing-function: linear;
+
+
+  background: #f6f7f8;
+  background: linear-gradient(to right, #eeeeee 8%, #999999 18%, #eeeeee 33%); 
+
+  display: flex;
+  min-height: 500px;
+  width: 110rem;
+}
+.my_skeleton_gray7_s2{
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: preloadAnimation;
+  animation-timing-function: linear;
+
+  background: #f6f7f8;
+  background: linear-gradient(to right, #eeeeee 8%, #999999 18%, #eeeeee 33%);
+
+  display: flex;
+  min-height: 500px;
+  width: 110rem;
+}
+.my_skeleton_gray7_s3{
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: preloadAnimation;
+  animation-timing-function: linear;
+
+  background: #f6f7f8;
+  background: linear-gradient(to right, #eeeeee 8%, #999999 18%, #eeeeee 33%);
+  
+  display: flex;
+  min-height: 500px;
+  width: 110rem;
+}
+
+
+
+
+
+
+
+
+
+.my_skeleton_gray8_s1{
+  animation-duration: 1s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: preloadAnimation;
+  animation-timing-function: linear;
+
+  background: #999999;
+  background: linear-gradient(to right, #999999 8%, #eeeeee 18%, #999999 33%);
+
+  display: flex;
+  min-height: 500px;
+  width: 110rem;
+}
+.my_skeleton_gray8_s2{
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: preloadAnimation;
+  animation-timing-function: linear;
+
+  background: #999999;
+  background: linear-gradient(to right, #999999 8%, #eeeeee 18%, #999999 33%);
+
+  display: flex;
+  min-height: 500px;
+  width: 110rem;
+}
+.my_skeleton_gray8_s3{
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: preloadAnimation;
+  animation-timing-function: linear;
+
+  background: #999999;
+  background: linear-gradient(to right, #999999 8%, #eeeeee 18%, #999999 33%);
+
+  display: flex;
+  min-height: 500px;
+  width: 110rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.my_skeleton_blue1_s1{
+  animation-duration: 1s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: preloadAnimation;
+  animation-timing-function: linear;
+
+  background:#2d1ba5;
+  background: linear-gradient(to right,  #00c1da 8%, #2607ed 18%, #00c1da 33%);
+
+
+  display: flex;
+  min-height: 500px;
+  width: 110rem;
+}
+.my_skeleton_blue1_s2{
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: preloadAnimation;
+  animation-timing-function: linear;
+
+  background:#2d1ba5;
+  background: linear-gradient(to right,  #00c1da 8%, #2607ed 18%, #00c1da 33%);
+
+
+
+  display: flex;
+  min-height: 500px;
+  width: 110rem;
+}
+.my_skeleton_blue1_s3{
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: preloadAnimation;
+  animation-timing-function: linear;
+
+  background:#2d1ba5;
+  background: linear-gradient(to right,  #00c1da 8%, #2607ed 18%, #00c1da 33%);
+
+
+  display: flex;
+  min-height: 500px;
+  width: 110rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.my_skeleton_blue2_s1{
+  animation-duration: 1s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: preloadAnimation;
+  animation-timing-function: linear;
+
+  background:#2d1ba5;
+  background: linear-gradient(to right,  #00d78c 8%, #00c1da 18%, #00d78c 33%);
+
+
+  display: flex;
+  min-height: 500px;
+  width: 110rem;
+}
+.my_skeleton_blue2_s2{
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: preloadAnimation;
+  animation-timing-function: linear;
+
+  background:#2d1ba5;
+  background: linear-gradient(to right,  #00d78c 8%, #00c1da 18%, #00d78c 33%);
+
+  display: flex;
+  min-height: 500px;
+  width: 110rem;
+}
+.my_skeleton_blue2_s3{
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: preloadAnimation;
+  animation-timing-function: linear;
+
+  background:#2d1ba5;
+  background: linear-gradient(to right,  #00d78c 8%, #00c1da 18%, #00d78c 33%);
+
+  display: flex;
+  min-height: 500px;
+  width: 110rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.my_skeleton_blue3_s1{
+  animation-duration: 1s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: preloadAnimation;
+  animation-timing-function: linear;
+
+  background:#2d1ba5;
+  background: linear-gradient(to right,  #007fda 8%, #6f00f4 18%, #007fda 33%);
+
+  display: flex;
+  min-height: 500px;
+  width: 110rem;
+}
+.my_skeleton_blue3_s2{
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: preloadAnimation;
+  animation-timing-function: linear;
+
+  background:#2d1ba5;
+  background: linear-gradient(to right,  #007fda 8%, #6f00f4 18%, #007fda 33%);
+
+  display: flex;
+  min-height: 500px;
+  width: 110rem;
+}
+.my_skeleton_blue3_s3{
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: preloadAnimation;
+  animation-timing-function: linear;
+
+  background:#2d1ba5;
+  background: linear-gradient(to right,  #007fda 8%, #6f00f4 18%, #007fda 33%);
+
+  display: flex;
+  min-height: 500px;
+  width: 110rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.my_skeleton_blue4_s1{
+  animation-duration: 1s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: preloadAnimation;
+  animation-timing-function: linear;
+
+  background:#2d1ba5;
+  background: linear-gradient(to right,  #00c1da 8%, #6f00f4 18%, #00c1da 33%);
+
+  display: flex;
+  min-height: 500px;
+  width: 110rem;
+}
+.my_skeleton_blue4_s2{
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: preloadAnimation;
+  animation-timing-function: linear;
+
+  background:#2d1ba5;
+  background: linear-gradient(to right,  #00c1da 8%, #6f00f4 18%, #00c1da 33%);
+
+  display: flex;
+  min-height: 500px;
+  width: 110rem;
+}
+.my_skeleton_blue4_s3{
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: preloadAnimation;
+  animation-timing-function: linear;
+
+  background:#2d1ba5;
+  background: linear-gradient(to right,  #00c1da 8%, #6f00f4 18%, #00c1da 33%);
+
+  display: flex;
+  min-height: 500px;
+  width: 110rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.my_skeleton_dark1_s1{
+  animation-duration: 1s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: preloadAnimation;
+  animation-timing-function: linear;
+
+  background:#2d1ba5;
+  background: linear-gradient(to right,  #152628 8%, #435b5f 18%, #152628 33%);
+
+  display: flex;
+  min-height: 500px;
+  width: 110rem;
+}
+.my_skeleton_dark1_s2{
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: preloadAnimation;
+  animation-timing-function: linear;
+
+
+  background:#2d1ba5;
+  background: linear-gradient(to right,  #152628 8%, #435b5f 18%, #152628 33%);
+
+
+
+  display: flex;
+  min-height: 500px;
+  width: 110rem;
+}
+.my_skeleton_dark1_s3{
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: preloadAnimation;
+  animation-timing-function: linear;
+
+  background:#2d1ba5;
+  background: linear-gradient(to right,  #152628 8%, #435b5f 18%, #152628 33%);
+
+  display: flex;
+  min-height: 500px;
+  width: 110rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.my_skeleton_dark2_s1{
+  animation-duration: 1s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: preloadAnimation;
+  animation-timing-function: linear;
+
+  background:#2d1ba5;
+  background: linear-gradient(to right,  #314a4d 8%, #777777 18%, #314a4d 33%);
+
+  display: flex;
+  min-height: 500px;
+  width: 110rem;
+}
+.my_skeleton_dark2_s2{
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: preloadAnimation;
+  animation-timing-function: linear;
+
+  background:#2d1ba5;
+  background: linear-gradient(to right,  #314a4d 8%, #777777 18%, #314a4d 33%);
+
+  display: flex;
+  min-height: 500px;
+  width: 110rem;
+}
+.my_skeleton_dark2_s3{
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: preloadAnimation;
+  animation-timing-function: linear;
+
+  background:#2d1ba5;
+  background: linear-gradient(to right,  #314a4d 8%, #777777 18%, #314a4d 33%);
+
+
+  display: flex;
+  min-height: 500px;
+  width: 110rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.my_skeleton_dark3_s1{
+  animation-duration: 1s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: preloadAnimation;
+  animation-timing-function: linear;
+
+  background:#2d1ba5;
+  background: linear-gradient(to right,  #314a4d 8%, #777777 18%, #314a4d 33%);
+
+  display: flex;
+  min-height: 500px;
+  width: 110rem;
+}
+.my_skeleton_dark3_s2{
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: preloadAnimation;
+  animation-timing-function: linear;
+
+  background:#2d1ba5;
+  background: linear-gradient(to right,  #435b5f 8%, #888888 18%, #435b5f 33%);
+
+  display: flex;
+  min-height: 500px;
+  width: 110rem;
+}
+.my_skeleton_dark3_s3{
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: preloadAnimation;
+  animation-timing-function: linear;
+
+  background:#2d1ba5;
+  background: linear-gradient(to right,  #314a4d 8%, #777777 18%, #314a4d 33%);
+
+
+  display: flex;
+  min-height: 500px;
+  width: 110rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@keyframes preloadAnimation{
+    0%{
+        background-position: -769px 0
+    }
+    100%{
+        background-position: 769px 0
+    }
+}
+
+
+
